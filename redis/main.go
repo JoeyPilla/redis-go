@@ -1,4 +1,4 @@
-package main
+package redis
 
 import (
 	"github.com/go-redis/redis"
@@ -6,7 +6,7 @@ import (
 
 var client redis.Client
 
-func connect() {
+func Connect() {
 	client = redis.NewClient(&redis.Options{
 		Addr:     "localhost:6379",
 		Password: "",

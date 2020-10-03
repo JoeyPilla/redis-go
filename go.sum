@@ -1,3 +1,5 @@
+github.com/JoeyPilla/redis-go/redis v0.0.0-20201003010945-526ebbb861ad h1:PTF/vCdwAmwqf+RTh5e6Bg4qb5/DdLbHA/Ojgw2VhhM=
+github.com/JoeyPilla/redis-go/redis v0.0.0-20201003010945-526ebbb861ad/go.mod h1:MY3g2piUiLjNqF1/KsA3kGLzGN9N3JVcMYhUAh2BcV4=
 github.com/cespare/xxhash/v2 v2.1.1 h1:6MnRN8NT7+YBpUIWxHtefFZOKTAPgGjpQSxqLNn0+qY=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
